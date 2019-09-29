@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Sobrecarga2\Sobrecarga2\bin\Debug\Sobrecarga2.exe.config
+C:\Users\User\source\repos\Sobrecarga2\Sobrecarga2\bin\Debug\Sobrecarga2.exe
+C:\Users\User\source\repos\Sobrecarga2\Sobrecarga2\bin\Debug\Sobrecarga2.pdb
+C:\Users\User\source\repos\Sobrecarga2\Sobrecarga2\obj\Debug\Sobrecarga2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sobrecarga2\Sobrecarga2\obj\Debug\Sobrecarga2.exe
+C:\Users\User\source\repos\Sobrecarga2\Sobrecarga2\obj\Debug\Sobrecarga2.pdb
